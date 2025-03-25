@@ -4,7 +4,7 @@
 Bu proje, Netflix'in abonelik verilerini analiz ederek gelecekteki abonelik sayısını tahmin etmeyi amaçlamaktadır. Zaman serisi analizi kullanılarak, geçmiş verilerden yola çıkarak gelecekteki abonelik rakamları tahmin edilmektedir. Bu sayede, Netflix'in büyüme trendleri ve abonelik değişimleri hakkında bilgi edinmek mümkün olmaktadır.
 
 ## 🔗 Kaynaklar
-- Hugging Face Uygulaması: [Music Clustering Space](https://huggingface.co/spaces/btulftma/netflix_abonelik_tahmini)
+- Hugging Face Uygulaması: [Netflix Abonelik Tahmini](https://huggingface.co/spaces/btulftma/netflix_abonelik_tahmini)
 
 ### Amaç
 Projenin ana hedefi, Netflix'in abonelik verilerini kullanarak gelecekteki abonelik sayısını tahmin etmek ve bununla birlikte abonelik büyüme oranlarını analiz etmektir. Bu, Netflix gibi içerik sağlayıcıları için stratejik planlamada faydalı veriler sunabilir.
